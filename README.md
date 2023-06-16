@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RayyanNafees
-- 👀 I’m interested in [S](solidjs.com)[A](astro.build)[F](fastify.io)[E](edgedb.com) Stack
-- 🌱 I’m currently learning [Rust](rust-lang.org)
+- 👀 I’m interested in [S](www.solidjs.com)[A](www.astro.build)[F](www.fastify.io)[E](www.edgedb.com) Stack
+- 🌱 I’m currently learning [Rust](www.rust-lang.org)
 - 💞️ I’m looking to collaborate on [Quran](https://github.com/quran/quran.com-frontend)
 - 📫 How to reach me: [https://rayyannafees.github.io](https://rayyannafees.github.io)
 
