@@ -6,17 +6,21 @@
   - EdgeDB
   - Postgres
   - DrizzleORM
+  - Django
   - UnoCSS
   - Vercel
   - Supabase
   - tRPC
-- 🌱 I’m currently learning [Rust](https://rust-lang.org)
-- 💞️ I’m looking to collaborate on [Quran](https://github.com/quran/quran.com-frontend)
-- 📫 How to reach me: [https://rayyannafees.github.io](https://rayyannafees.github.io)
+- 🌱 I’m currently learning [Rust](https://rust-lang.org) & [Golang](https://go.dev)
+- 💞️ I’m looking to collaborate on [Djazztro](https://github.com/Bwc9876/Djazztro)
+- 📫 How to reach me: [rayyannafees.github.io](https://rayyannafees.github.io)
 
 What best describes me is that I'm a:
 
 # Sikik Developer
+
+## Moto:
+> Never let a human do a machine's job !
 
 
 <!---
