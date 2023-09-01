@@ -10,6 +10,8 @@
   - UnoCSS
   - Vercel
   - Supabase
+  - Expo React Native
+  - Tauri
   - tRPC
 - 🌱 I’m currently learning [Rust](https://rust-lang.org) & [Golang](https://go.dev)
 - 💞️ I’m looking to collaborate on [Djazztro](https://github.com/Bwc9876/Djazztro)
