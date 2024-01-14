@@ -11,6 +11,7 @@
   - DrizzleORM
   - Django
   - UnoCSS
+  - Netlify
   - Vercel
   - Supabase
   - Pocketbase
