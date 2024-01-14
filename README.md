@@ -1,15 +1,18 @@
 - 👋 Hi, I’m @RayyanNafees
-- 👀 I’m interested in [S](https://solidjs.com)[A](https://astro.build)[F](https://fastify.io)[E](https://edgedb.com) Stack
-  - Solid.js
+- 👀 I’m interested in [B](https://bun.sh)[A](https://astro.build)[S](https://solidjs.com)[E](https://elysiajs.com) Stack
+  - Bun
   - Astro
-  - Fastify
-  - EdgeDB
+  - Solid.js
+  - Elysia
+  - Redis
   - Postgres
+  - SQlite
   - DrizzleORM
   - Django
   - UnoCSS
   - Vercel
   - Supabase
+  - Pocketbase
   - Expo React Native
   - Tauri
   - tRPC
