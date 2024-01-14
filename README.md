@@ -4,6 +4,7 @@
   - Astro
   - Solid.js
   - Elysia
+  - Preact
   - Redis
   - Postgres
   - SQlite
