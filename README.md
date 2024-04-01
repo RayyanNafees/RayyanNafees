@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @RayyanNafees
-- 👀 I’m interested in [B](https://bun.sh)[A](https://astro.build)[S](https://solidjs.com)[E](https://elysiajs.com) Stack
-  - Bun
+- 👀 I’m interested in [C](https://cloudflare.com)[H](https://hono.dev)[A](https://astro.build)[D](https://drizzle.team) Stack
+  - Bun, Deno
   - Astro
-  - Solid.js
-  - Elysia
+  - Solid.js , Preact
+  - Hono
   - Preact
   - Redis
   - Postgres
