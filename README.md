@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RayyanNafees
-- 👀 I’m interested in Stack ([Cloudflare](https://workers.cloudflare.com), [Hono](https://hono.dev), [Astro](https://astro.build), [Drizzle](https://drizzle.team))
+- 👀 I’m interested in CHAD Stack ([Cloudflare](https://workers.cloudflare.com), [Hono](https://hono.dev), [Astro](https://astro.build), [Drizzle](https://drizzle.team))
   - Bun, Deno
   - Astro
   - Solid.js , Preact
