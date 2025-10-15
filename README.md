@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @RayyanNafees
 - 👀 I’m interested in CHAD Stack ([Cloudflare](https://workers.cloudflare.com), [Hono](https://hono.dev), [Astro](https://astro.build), [Deno](https://deno.land))
   - Bun, Deno
   - Astro
