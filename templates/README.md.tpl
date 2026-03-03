@@ -128,12 +128,12 @@
 {{- end}}
 
 #### 🌱 My latest projects
-{{range recentCreatedRepos "charmbracelet" 10}}
+{{range recentCreatedRepos "RayyanNafees" 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 #### 🍴 My recent forks
-{{range recentForkedRepos "charmbracelet" 10}}
+{{range recentForkedRepos "RayyanNafees" 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
@@ -147,10 +147,11 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 My recent blog posts
+<!-- #### 📜 My recent blog posts
 {{range rss "https://.../posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
+-->
 
 #### 📓 Gists I wrote
 {{range gists 5}}
